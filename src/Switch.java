@@ -58,14 +58,9 @@ public class Switch {
 
 
          */
-        switch (day){
-            case "Sunday" ,"Monday" :yield "8am";
-            case "Tuesday" : yield "6am";
 
-            default : yield "7am";
-        }
 
-        System.out.println(result);
+
 
     }
 }

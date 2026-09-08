@@ -32,7 +32,7 @@ public class Switch {
 
             default :
                 System.out.println("Please enter a valid number !");
-        } */
+        }
 
 
         /*

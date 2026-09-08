@@ -11,7 +11,7 @@ public class TernaryOperator {
         int age ;
         System.out.print("Enter your age :");
         age = scanner.nextInt();
-        String result = (age==59) ? "You are eligible !" : "You are nnot eligible";
+        String result = (age==59) ? "You are eligible !" : "You are not eligible";
         System.out.println(result);
     }
 }
